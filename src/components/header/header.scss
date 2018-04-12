@@ -1,0 +1,21 @@
+@import "../../css/variables";
+
+.page-header {
+
+  .page-logo {
+    text-align: center;
+    line-height: 3.5rem;
+    height: 3.5rem;
+
+    .page-logo-main {
+      color: $primary-color;
+      font-size: 3rem;
+      margin: 0;
+    }
+    .page-logo-sub {
+      font-size: 1rem;
+      text-transform: uppercase;
+      margin: 0;
+    }
+  }
+}
