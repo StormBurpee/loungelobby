@@ -13,3 +13,19 @@ body {
     color: $light-background;
   }
 }
+
+.ll-section {
+
+  margin-bottom: 20px;
+  .section-title {
+    color: $primary-color;
+    font-weight: 500;
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+}
+
+.page {
+  text-align: left;
+  margin: 0px 40px;
+}
