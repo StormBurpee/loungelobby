@@ -1,19 +1,22 @@
 @import "../../scss/variables";
 
 .page-header {
+  height: 7rem;
 
   .page-logo {
     text-align: center;
-    line-height: 3.5rem;
-    height: 3.5rem;
+    line-height: 6rem;
 
     .page-logo-main {
       color: $primary-color;
       font-size: 3rem;
+      font-weight: 600;
       margin: 0;
     }
     .page-logo-sub {
       font-size: 1rem;
+      line-height: 0rem;
+      font-weight: 300;
       text-transform: uppercase;
       margin: 0;
     }
